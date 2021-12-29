@@ -1,2 +1,7 @@
 This is a test
+<<<<<<< HEAD
 Changing dummy
+||||||| 0ffc994
+=======
+I have changed this
+>>>>>>> testbranch
